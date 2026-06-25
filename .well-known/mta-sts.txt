@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: martijnoudshoorn-nl.w-v1.mx.microsoft
+max_age: 86400
